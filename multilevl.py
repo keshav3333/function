@@ -10,3 +10,4 @@ class child(parent):
     property3 =  'bike' 
 
 obj = child('sunil')
+
